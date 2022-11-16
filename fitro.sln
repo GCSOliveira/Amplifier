@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fitro", "fitro\fitro.csproj", "{D79973E1-D3E8-4AF6-BCD8-C1A15892074D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D79973E1-D3E8-4AF6-BCD8-C1A15892074D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D79973E1-D3E8-4AF6-BCD8-C1A15892074D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D79973E1-D3E8-4AF6-BCD8-C1A15892074D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D79973E1-D3E8-4AF6-BCD8-C1A15892074D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE3D831B-8DA5-47C1-BDE4-473339F2EA2B}
+	EndGlobalSection
+EndGlobal
